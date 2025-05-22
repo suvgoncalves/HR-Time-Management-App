@@ -1,0 +1,25 @@
+{
+    "D": {"base_hours": 12, "is_fots_day": false, "is_absence": false},
+    "N": {"base_hours": 12, "is_fots_day": false, "is_absence": false},
+    "TS": {"base_hours": 12, "is_fots_day": false, "is_absence": false},
+    "FOTS": {"base_hours": 12, "is_fots_day": true, "is_absence": false},
+    "FE": {"base_hours": 0, "is_fots_day": false, "is_absence": true},
+    "L": {"base_hours": 0, "is_fots_day": false, "is_absence": true},
+    "B": {"base_hours": 0, "is_fots_day": false, "is_absence": true},
+    "DISP": {"base_hours": 0, "is_fots_day": false, "is_absence": true},
+    "FI": {"base_hours": 0, "is_fots_day": false, "is_absence": true, "absence_hours": 12}, # Falta Injustificada
+    "FJ": {"base_hours": 0, "is_fots_day": false, "is_absence": true, "absence_hours": 12}, # Falta Justificada
+    "T": {"base_hours": 0, "is_fots_day": false, "is_absence": false},
+    "DT": {"base_hours": 0, "is_fots_day": false, "is_absence": false},
+    "NT": {"base_hours": 0, "is_fots_day": false, "is_absence": false},
+    "DTS": {"base_hours": 12, "is_fots_day": false, "is_absence": false},
+    "NTS": {"base_hours": 12, "is_fots_day": false, "is_absence": false},
+    "DTS5S": {"base_hours": 12, "is_fots_day": false, "is_absence": false},
+    "NTS5S": {"base_hours": 12, "is_fots_day": false, "is_absence": false},
+    "DTSDS": {"base_hours": 12, "is_fots_day": false, "is_absence": false},
+    "NTSDS": {"base_hours": 12, "is_fots_day": false, "is_absence": false},
+    "OJTD": {"base_hours": 12, "is_fots_day": false, "is_absence": false},
+    "OJTN": {"base_hours": 12, "is_fots_day": false, "is_absence": false}
+    // Assegura-te que todos os códigos que aparecem nos Excel do cliente estão aqui!
+}
+
