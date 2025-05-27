@@ -1,0 +1,28 @@
+{
+    "turn_durations_hours": {
+        "D": 12,
+        "N": 12,
+        "DT": 12,
+        "NT": 12,
+        "T": 12,
+        "SA": 12,
+        "SAT": 12,
+        "DTS": 12,
+        "NTS": 12,
+        "FOTS": 12,
+        "DTS5S": 12,
+        "NTSS5S": 12,
+        "DTSDS": 12,
+        "NTSDS": 12,
+        "0": 0,
+        "FE": 0,
+        "L": 0,
+        "B": 0,
+        "FI": 0,
+        "FJ": 0,
+        "DISP": 0
+    },
+    "default_daily_hours": 12,
+    "default_weekly_hours": 40,
+    "fots_compensation_days": 1
+}
