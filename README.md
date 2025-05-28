@@ -54,5 +54,6 @@ A implementação deste sistema resultou numa melhoria significativa da eficiên
 
 O processamento de dados subjacente, gerido pelo script Python, garante a extração e transformação eficiente das escalas de trabalho.
 ---
+Podes interagir com a aplicação aqui: [HR Time Management App - Demo Ao Vivo](https://hr-time-management-app-msyhvvdk4pwop7gyjtarng.streamlit.app/)
 
 **NOTA SOBRE DADOS:** Por razões de confidencialidade e privacidade do cliente, todos os dados exibidos nas screenshots e em qualquer demonstração são fictícios e foram gerados apenas para fins de portefólio.
