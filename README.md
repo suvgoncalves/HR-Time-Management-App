@@ -28,7 +28,7 @@ Aqui está uma visão geral do dashboard principal da aplicação, mostrando os 
 * **Cálculo Preciso de Horas:** Contabilização de Horas Normais, Horas Extra e Horas em Folgas Obrigatórias (FOTS) por colaborador e por turno.
 * **Acerto Semestral Automatizado:** Cálculo de saldos de horas e determinação de dias de folga compensatória.
 * Uma funcionalidade crucial do sistema é o acerto semestral automatizado, que calcula os saldos de horas e as folgas compensatórias necessárias.
-![Secção de Acerto Semestral da Aplicação Streamlit com cálculo de saldos de horas]((https://github.com/user-attachments/assets/7ffb7aa3-e890-4e87-9961-f69b556c4bbe)
+![Secção de Acerto Semestral da Aplicação Streamlit com cálculo de saldos de horas](https://github.com/user-attachments/assets/7ffb7aa3-e890-4e87-9961-f69b556c4bbe)
 * **Geração de Relatórios:** Exportação de dados para Excel/CSV (detalhes diários, resumos mensais, acerto semestral, relatórios individuais).
 
 A interface intuitiva permite a consulta de detalhes de horas por colaborador, com acesso a resumos diários e mensais.
