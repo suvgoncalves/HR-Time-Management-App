@@ -23,6 +23,10 @@ Aqui está uma visão geral do dashboard principal da aplicação, mostrando os 
 * **Desenvolvimento Web/UI:** Streamlit
 * **Gestão de Ambientes/Dependências:** `venv` (ambiente virtual Python)
 
+  ## 🚀 Experimentar a Aplicação Web (Live Demo)
+
+**[Aceder ao Dashboard Interativo aqui!]([https://suvgoncalves-hr-time-management-app-abcde123.streamlit.app/](https://hr-time-management-app-msyhvvdk4pwop7gyjtarng.streamlit.app/)**
+
 ## Funcionalidades Chave
 * **Processamento de Escalas Excel:** Leitura automatizada e transformação de dados de escalas complexas.
 * **Cálculo Preciso de Horas:** Contabilização de Horas Normais, Horas Extra e Horas em Folgas Obrigatórias (FOTS) por colaborador e por turno.
